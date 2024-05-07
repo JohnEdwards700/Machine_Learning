@@ -1,81 +1,81 @@
 item-description,tag-label
-Organic Avocado,Grocery
+Organic Avocado,Food
 iPhone 12 Pro Max,Electronics
-Nike Air Max Sneakers,Fashion
-Stainless Steel Water Bottle,Home & Kitchen
+Nike Air Max Sneakers,Personal Care & Clothing
+Stainless Steel Water Bottle,Home
 Harry Potter and the Philosopher's Stone,Books
 Yoga Mat,Sports & Fitness
-Blueberry Muffin Mix,Grocery
+Blueberry Muffin Mix,Food
 Electricity Bill,Bills
 Netflix Subscription Renewal,Bills
-Leather Wallet,Fashion
-Non-stick Frying Pan,Home & Kitchen
+Leather Wallet,Personal Care & Clothing
+Non-stick Frying Pan,Home
 The Great Gatsby by F. Scott Fitzgerald,Books
 Gym Membership Renewal,Bills
 Dumbbell Set,Sports & Fitness
-Organic Kale,Grocery
+Organic Kale,Food
 Internet Bill,Bills
 Noise Cancelling Headphones,Electronics
-Little Black Dress,Fashion
-French Press Coffee Maker,Home & Kitchen
+Little Black Dress,Personal Care & Clothing
+French Press Coffee Maker,Home
 Rent Payment,Bills
 To Kill a Mockingbird by Harper Lee,Books
 Running Shoes,Sports & Fitness
-Quinoa,Grocery
+Quinoa,Food
 Bluetooth Speaker,Electronics
-Denim Jeans,Fashion
-Slow Cooker,Home & Kitchen
+Denim Jeans,Personal Care & Clothing
+Slow Cooker,Home
 Water Bill,Bills
 1984 by George Orwell,Books
 Yoga Block,Sports & Fitness
 Flight tickets to Paris,Travel
 Subway monthly pass,Transportation
-Backpack,Travel Gear
+Backpack,Travel
 Uber ride to work,Transportation
 Hotel reservation in London,Travel
 Gasoline refill,Transportation
-Hiking boots,Outdoor Gear
+Hiking boots,Personal Care & Clothing
 Train tickets to Barcelona,Travel
 Bus pass for the month,Transportation
-Camping tent,Outdoor Gear
+Camping tent,Personal Care & Clothing
 Car rental for the weekend,Travel
 Bicycle repair kit,Transportation
-Snorkeling gear,Outdoor Gear
+Snorkeling gear,Personal Care & Clothing
 Taxi fare,Transportation
 Travel guidebook,Travel
 Ferry tickets to the islands,Travel
 City bike subscription,Transportation
-Camping stove,Outdoor Gear
+Camping stove,Personal Care & Clothing
 International driving permit,Travel
 Public transportation card,Transportation
-Hiking map,Outdoor Gear
+Hiking map,Personal Care & Clothing
 Airbnb accommodation,Travel
 Parking fees,Transportation
-Camping chairs,Outdoor Gear
+Camping chairs,Personal Care & Clothing
 Sightseeing tours,Travel
 Bike helmet,Transportation
-Portable camping shower,Outdoor Gear
+Portable camping shower,Personal Care & Clothing
 Textbooks,Education
-Rent Payment,Housing
-Groceries,Food & Dining
+Rent Payment,Home
+Groceries,Food
 Internet Bill,Utilities
 Cell Phone Plan,Utilities
-Laptop,Technology
+Laptop,Electronics
 Health Insurance,Healthcare
-Eating Out,Food & Dining
+Eating Out,Food
 Gasoline,Transportation
 Public Transportation Pass,Transportation
 Clothing,Personal Care & Clothing
-Coffee Shop Visits,Food & Dining
+Coffee Shop Visits,Food
 Utilities Bill,Utilities
-Gym Membership,Health & Fitness
+Gym Membership,Sports & Fitness
 Haircut,Personal Care & Clothing
-Laundry Detergent,Household Supplies
+Laundry Detergent,Home
 Movie Tickets,Entertainment
 Streaming Services Subscription,Entertainment
 Dental Checkup,Healthcare
-Fitness Classes,Health & Fitness
-Fast Food,Food & Dining
+Fitness Classes,Sports & Fitness
+Fast Food,Food
 Car Insurance,Transportation
 Alcohol,Entertainment
 Toiletries,Personal Care & Clothing
@@ -83,8 +83,8 @@ Tuition Fees,Education
 Concert Tickets,Entertainment
 Books,Education
 Uber/Lyft Rides,Transportation
-Mortgage Payment,Housing
-Groceries,Food & Dining
+Mortgage Payment,Home
+Groceries,Food
 Car Payment,Transportation
 Car Insurance,Insurance
 Health Insurance,Insurance
@@ -95,29 +95,29 @@ Gasoline,Transportation
 Home Insurance,Insurance
 Property Taxes,Taxes
 Healthcare Expenses,Healthcare
-Retirement Savings,Financial Planning
+Retirement Savings,Financial
 Life Insurance,Insurance
-Home Maintenance,Home & Garden
-Dining Out,Food & Dining
+Home Maintenance,Home
+Dining Out,Food
 Clothing,Personal Care & Clothing
-Gym Membership,Health & Fitness
+Gym Membership,Sports & Fitness
 Haircut,Personal Care & Clothing
-Laundry Detergent,Household Supplies
+Laundry Detergent,Home
 Entertainment,Entertainment
 Travel Expenses,Travel
-Home Improvement,Home & Garden
-Gifts & Donations,Personal
+Home Improvement,Home
+Gifts & Donations,Personal Care & Clothing
 Subscription Services,Entertainment
 Tuition Fees,Education
-Investment Contributions,Financial Planning
-Organic apples 2 lbs,Grocery
-Coca-Cola 12-pack 355ml cans,Grocery
+Investment Contributions,Financial
+Organic apples 2 lbs,Food
+Coca-Cola 12-pack 355ml cans,Food
 Samsung 55-inch 4K Smart TV,Electronics
 Apple iPhone 12 Pro Max 256GB Pacific Blue,Electronics
-Nike Air Max 270 sneakers size 10 black,Fashion
-Levi's Men's 505 Regular Fit Jeans 32W x 32L,Fashion
-Keurig K-Elite Coffee Maker Brushed Silver,Home & Kitchen
-Dyson V11 Torque Drive Cordless Vacuum Cleaner,Home & Kitchen
+Nike Air Max 270 sneakers size 10 black,Personal Care & Clothing
+Levi's Men's 505 Regular Fit Jeans 32W x 32L,Personal Care & Clothing
+Keurig K-Elite Coffee Maker Brushed Silver,Home
+Dyson V11 Torque Drive Cordless Vacuum Cleaner,Home
 The Great Gatsby by F. Scott Fitzgerald,Books
 Harry Potter and the Sorcerer's Stone by J.K. Rowling,Books
 Adidas Performance Men's Soccer Condivo Shorts Large Black/White,Sports & Fitness
@@ -128,10 +128,10 @@ Crest 3D White Toothpaste 4.8 oz,Healthcare
 Tylenol Extra Strength Acetaminophen 100 caplets,Healthcare
 Microsoft Surface Laptop 4 13.5-inch Intel Core i7 16GB RAM 512GB SSD Platinum,Electronics
 Dell XPS 13 Laptop 13.4-inch FHD+ Intel Core i7 16GB RAM 512GB SSD Platinum Silver,Electronics
-Women's Running Shoes size 8 pink,Fashion
-Under Armour Men's Tech 2.0 Short Sleeve T-Shirt Large Black,Fashion
-Philips Hue White and Color Ambiance A19 LED Smart Bulb Starter Kit,Home & Kitchen
-Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker 6 Quart,Home & Kitchen
+Women's Running Shoes size 8 pink,Personal Care & Clothing
+Under Armour Men's Tech 2.0 Short Sleeve T-Shirt Large Black,Personal Care & Clothing
+Philips Hue White and Color Ambiance A19 LED Smart Bulb Starter Kit,Home
+Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker 6 Quart,Home
 Kindle Paperwhite- Now Waterproof with 2x the Storage,Books
 The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life by Mark Manson,Books
 Yoga Mat with Carrying Strap 1/4-Inch Thick Non-Slip Exercise Mat,Sports & Fitness
@@ -146,21 +146,21 @@ Annual Physical Examination,Healthcare
 Dental Cleaning and Check-up,Healthcare
 Uber Ride Downtown to Airport,Transportation
 Gasoline 20 gallons,Transportation
-Restaurant Dinner Italian Cuisine,Food & Dining
-Grocery Store Shopping - Weekly,Food & Dining
-Toilet Paper 12 rolls,Household Supplies
-Dish Soap Lemon Scent 24 oz,Household Supplies
-Organic bananas 3 lbs,Grocery
-Pepsi-Cola 24-pack 12 oz cans,Grocery
+Restaurant Dinner Italian Cuisine,Food
+Grocery Store Shopping - Weekly,Food
+Toilet Paper 12 rolls,Home
+Dish Soap Lemon Scent 24 oz,Home
+Organic bananas 3 lbs,Food
+Pepsi-Cola 24-pack 12 oz cans,Food
 Sony 65-inch OLED 4K Ultra HD Smart TV,Electronics
 MacBook Pro 16-inch 1TB SSD Space Gray,Electronics
-Adidas UltraBoost 21 Running Shoes size 9 white/black,Fashion
-Lululemon Align Pant II size 6 black,Fashion
-Breville Barista Express Espresso Machine Stainless Steel,Home & Kitchen
-Roomba i7+ Robot Vacuum Cleaner,Home & Kitchen
+Adidas UltraBoost 21 Running Shoes size 9 white/black,Personal Care & Clothing
+Lululemon Align Pant II size 6 black,Personal Care & Clothing
+Breville Barista Express Espresso Machine Stainless Steel,Home
+Roomba i7+ Robot Vacuum Cleaner,Home
 The Hitchhiker's Guide to the Galaxy by Douglas Adams,Books
 Educated: A Memoir by Tara Westover,Books
-Yonex Voltric Z Force II Badminton Racket Sports & Fitness
+Yonex Voltric Z Force II Badminton Racket,Sports & Fitness
 GoPro HERO10 Black Action Camera,Sports & Fitness
 Disneyland Park Hopper Ticket 1 day,Entertainment
 Concert Tickets for Taylor Swift's Reputation Tour,Entertainment
@@ -168,10 +168,10 @@ Colgate Total Whitening Toothpaste 6 oz,Healthcare
 Advil Ibuprofen 200mg 50 tablets,Healthcare
 Apple Watch Series 7 45mm GPS + Cellular Midnight,Electronics
 Google Pixel 6 Pro 128GB Cloudy White,Electronics
-Michael Kors Jet Set Travel Large Tote Brown,Fashion
-Ray-Ban Classic Aviator Sunglasses Gold Frame Green Lens,Fashion
-Cuisinart 14-Cup Food Processor Brushed Stainless,Home & Kitchen
-Instant Pot Pro Crisp + Air Fryer 8-Quart,Home & Kitchen
+Michael Kors Jet Set Travel Large Tote Brown,Personal Care & Clothing
+Ray-Ban Classic Aviator Sunglasses Gold Frame Green Lens,Personal Care & Clothing
+Cuisinart 14-Cup Food Processor Brushed Stainless,Home
+Instant Pot Pro Crisp + Air Fryer 8-Quart,Home
 Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones by James Clear,Books
 The Silent Patient by Alex Michaelides,Books
 Nike Dri-FIT Running Shorts Men's Medium Black-Silver,Sports & Fitness
@@ -186,10 +186,10 @@ Dermatologist Appointment Annual Skin Checkup,Healthcare
 Eye Examination and Prescription Glasses,Healthcare
 Lyft Ride Home to Work,Transportation
 Full Tank of Diesel Fuel Truck,Transportation
-Sushi Dinner Omakase,Food & Dining
-Grocery Delivery Service Subscription Monthly,Food & Dining
-Paper Towels 6 rolls,Household Supplies
-All-Purpose Cleaner Lemon Scent 32 oz,Household Supplies
+Sushi Dinner Omakase,Food
+Grocery Delivery Service Subscription Monthly,Food
+Paper Towels 6 rolls,Home
+All-Purpose Cleaner Lemon Scent 32 oz,Home
 Stock Investment in Apple Inc.,Investment
 Real Estate Property Purchase,Real Estate
 High-Yield Savings Account,Investment
