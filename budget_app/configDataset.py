@@ -28,25 +28,25 @@ ITEM_TAG = "budget_app\Item Description,TagLabel.csv"
 
 def pre_process_csv(csvfile, label_col = "tag-label"):
 
-    # label_map = {}
-    # new_label_id = 0
+    label_map = {}
+    new_label_id = 0
     
     
     raw_data = pd.read_csv(f"{csvfile}")
     raw_data = pd.DataFrame(raw_data)
     raw_data["tag-label"] = raw_data[label_col]
     
-    # for i in range(len(raw_data)):
-    #     label = raw_data.loc[i, "tag-label"]
-    #     if label not in label_map:
-    #         print(label)
-    #         label_map[label] = new_label_id
-    #         new_label_id += 1
-    #     raw_data.loc[i, "tag-label"] = label_map[label]
+    for i in range(len(raw_data)):
+        label = raw_data.loc[i, "tag-label"]
+        if label not in label_map:
+            print(label)
+            label_map[label] = new_label_id
+            new_label_id += 1
+        raw_data.loc[i, "tag-label"] = label_map[label]
         # print(label_map[label])
         
-    print("First few rows with labels: ")
-    print(raw_data.head())
+    # print("First few rows with labels: ")
+    # print(raw_data.head())
     raw_data_test = raw_data.copy()
     raw_data_test['tag-label'] = None
     dataset = Dataset.from_pandas(raw_data, split="train")
@@ -76,6 +76,7 @@ def pre_process_csv(csvfile, label_col = "tag-label"):
             # print(f"Input IDs: {input_ids[0]}")  
             # print(f"Token Type IDs: {token_type_ids[0]}")  
             # print(f"Attention Mask: {attention_mask[0]}")
+            # print(f"Labels: {label[0]}")
             
             return item_description, label, input_ids, token_type_ids, attention_mask
     dataset = dataset.set_format(
@@ -102,6 +103,6 @@ def pre_process_csv(csvfile, label_col = "tag-label"):
 
 # pre_process_csv("budget_app\gain-lost, tag-label.csv")
 complete_train, complete_test = pre_process_csv("budget_app\Item Description,TagLabel.csv")
-print(complete_train)
-print(complete_test)
+# print(complete_train)
+# print(complete_test)
 # load_dataset("csv", data_dir=GAIN_LOST, sep="\t")

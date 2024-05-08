@@ -1,7 +1,6 @@
 from budget_app.configDataset import *
 import torch
-from transformers import RobertaModel, TrainingArguments
-from transformers import Trainer
+from transformers import RobertaModel, TrainingArguments,Trainer,DataCollatorWithPadding
 import numpy as np
 import evaluate
 
@@ -10,18 +9,20 @@ training_args = TrainingArguments(
     'roberta-base',
     ouptut_dir="budget_app\budgetbot_v1.0.pt",
     evaluation_strategy= "epoch",
+    save_strategy="epoch",
     per_device_train_batch_size=16,
     per_gpu_eval_batch_size=16,
     num_train_epochs=5,
     learning_rate=2e-5,
-    weight_decay=0.01,)
+    weight_decay=0.01,
+    load_best_model_at_end=True,)
 
-metric = evaluate.load("accuracy")
+accuracy = evaluate.load("accuracy")
 
 def compute_metrics(evaluation_prediction):
     logits, labels = evaluation_prediction
     predictions = np.argmax(logits, axis=-1)
-    return metric.compute(predictions=predictions, references=labels)
+    return accuracy.compute(predictions=predictions, references=labels)
 
 trainer = Trainer(
     model,
